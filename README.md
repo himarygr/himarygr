@@ -7,6 +7,8 @@
 </p>
 <p align="center">
     Welcome to my GitHub repository! I am a data scientist with 2 years of experience working as a leading analyst at Gazprombank. Currently, I am pursuing a Master's degree in Data Science from HSE, specializing in neural networks. Here, you'll find my studies and pet projects related to data science.
+     ___________
+    Добро пожаловать в мой репозиторий на GitHub! Я специалист по анализу данных. В настоящее время я получаю степень магистра в области науки о данных в ВШЭ, специализируясь на нейронных сетях. Здесь вы найдете мои исследования и проекты, связанные с наукой о данных.
 </p>
 
 <!-- Badges -->
@@ -51,7 +53,6 @@
 ## Education
 - Master of Data Science, HSE University (2023 - 2025)
 - Bachelor of Science in Chemical Technology, MIREA (2018 - 2022)
-
 
 <!-- Contact -->
 <p align="center">
