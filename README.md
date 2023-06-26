@@ -39,12 +39,6 @@
     <img alt="SAS Enterprise Guide" src="https://img.shields.io/badge/SAS%20Enterprise%20Guide-%230070C0.svg?style=flat-square&logo=sas&logoColor=white">
 </p>
 
-<!-- Table of Contents -->
-## Table of Contents
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Education](#education)
-- [Skills](#skills)
 
 <!-- About Me -->
 ## About Me
@@ -59,7 +53,6 @@ I am passionate about data science and neural networks. As a data scientist, I e
 ## Education
 - Master of Data Science, HSE University (2023 - 2025)
 - Bachelor of Science in Chemical Technology, MIREA (2018 - 2022)
-
 
 
 <!-- Contact -->
