@@ -50,7 +50,7 @@
 
 <!-- Projects -->
 ## Projects
-- [Яндекс Практикум](link_to_project_1): Description of project 1.
+- [Яндекс Практикум](https://github.com/himarygr/YandexPracticum): Description of project 1.
 - [Хакатон Sandstorm](link_to_project_2): Description of project 2.
 
 <!-- Education -->
