@@ -29,11 +29,11 @@
 </p>
 
 ## :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himarygr&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himarygr&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himarygr&theme=default)
+<div id = "stat" align = "center">
+    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himarygr&theme=default"/>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=himarygr&layout=compact&theme=default"/>
+    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himarygr&theme=default"/>
+</div>
 
 <!-- Skills -->
 ## :woman_technologist: My Skills :
