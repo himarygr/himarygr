@@ -31,7 +31,7 @@
 ## :fire: My Stats :
 <div id = "stat" align = "center">
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himarygr&theme=default"/>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=himarygr&layout=compact&theme=default"/>
+    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himarygr&theme=default"/>
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himarygr&theme=default"/>
 </div>
 
