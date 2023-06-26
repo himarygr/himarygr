@@ -23,7 +23,7 @@
 </p>
 
 ## :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himarygr&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himarygr&background=000000)](https://git.io/streak-stats)
 
 <!-- Skills -->
 ## :woman_technologist: My Skills :
