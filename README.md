@@ -50,16 +50,22 @@ I am passionate about data science and neural networks. As a data scientist, I e
 <!-- Skills -->
 ## Skills
 <p align="center">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=social&logo=python&logoColor=white" height="40" />
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300758F.svg?style=social&logo=amazon%20aws&logoColor=white" height="40" />
-    <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=social&logo=apache%20kafka&logoColor=white" height="40" />
-    <img alt="Apache Superset" src="https://img.shields.io/badge/Apache%20Superset-%23F52A33.svg?style=social&logo=apache%20superset&logoColor=white" height="40" />
-    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=social&logo=grafana&logoColor=white" height="40" />
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=social&logo=tensorflow&logoColor=white" height="40" />
-    <img alt="Node-RED" src="https://img.shields.io/badge/Node--RED-%230C1117.svg?style=social&logo=node-red&logoColor=white" height="40" />
-    <img alt="Apache NiFi" src="https://img.shields.io/badge/Apache%20NiFi-%23DD4814.svg?style=social&logo=apache%20nifi&logoColor=white" height="40" />
-    <img alt="SAS Enterprise Guide" src="https://img.shields.io/badge/SAS%20Enterprise%20Guide-%230070C0.svg?style=social&logo=sas&logoColor=white" height="40" />
+    <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" width="50" />
+    <img alt="SQL" src="https://img.icons8.com/color/48/000000/sql.png" width="50" />
+    <img alt="Kafka" src="https://img.icons8.com/color/48/000000/apache-kafka.png" width="50" />
+    <img alt="Apache Superset" src="https://img.icons8.com/color/48/000000/apache-superset.png" width="50" />
+    <img alt="Grafana" src="https://img.icons8.com/color/48/000000/grafana.png" width="50" />
+    <img alt="TensorFlow" src="https://img.icons8.com/color/48/000000/tensorflow.png" width="50" />
+    <img alt="Node-RED" src="https://img.icons8.com/color/48/000000/node-red.png" width="50" />
+    <img alt="Apache NiFi" src="https://img.icons8.com/color/48/000000/apache-nifi.png" width="50" />
+    <img alt="SAS Enterprise Guide" src="https://img.icons8.com/color/48/000000/sas.png" width="50" />
 </p>
+
+<!-- Neural Network Animation -->
+<p align="center">
+    <img src="path_to_neural_network_animation.gif" alt="Neural Network Animation" width="300" />
+</p>
+
 
 
 <!-- Contact -->
