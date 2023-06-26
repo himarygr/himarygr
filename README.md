@@ -5,12 +5,14 @@
 <p align="center">
     <img src="https://media.licdn.com/dms/image/C5603AQG7nxooJZickQ/profile-displayphoto-shrink_800_800/0/1624980739105?e=2147483647&v=beta&t=4fSYC3VaWTde68x6aXcDO5j5nv_xLgU0l09OuOVeI8A" alt="Maria Lagosha" width="200" height="200">
 </p>
-<p align="center">
-    Welcome to my GitHub repository! I am a data scientist with 2 years of experience working as a leading analyst at Gazprombank. Currently, I am pursuing a Master's degree in Data Science from HSE, specializing in neural networks. Here, you'll find my studies and pet projects related to data science.
-    
-    
-    Добро пожаловать в мой репозиторий на GitHub! Я специалист по анализу данных. В настоящее время я получаю степень магистра в области науки о данных в ВШЭ, специализируясь на нейронных сетях. Здесь вы найдете мои исследования и проекты, связанные с наукой о данных.
-</p>
+<blockquote>
+    <p align="center">
+        <em>This is a beautiful text block with a nice design.</em>
+    </p>
+    <p align="center">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum tristique mauris, sit amet iaculis nibh vestibulum ut. Vivamus auctor magna id felis iaculis, nec dignissim nisi consequat. Duis auctor elit ac dapibus pulvinar.
+    </p>
+</blockquote>
 
 <!-- Badges -->
 <p align="center">
