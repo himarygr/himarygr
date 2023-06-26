@@ -42,10 +42,6 @@
 </p>
 
 
-<!-- About Me -->
-## About Me
-I am passionate about data science and neural networks. As a data scientist, I enjoy analyzing complex datasets and deriving valuable insights. With 2 years of experience at Gazprombank and pursuing a Master's degree in Data Science from HSE, I am constantly learning and applying new techniques to solve real-world problems.
-
 <!-- Projects -->
 ## Projects
 - [Яндекс Практикум](link_to_project_1): Description of project 1.
