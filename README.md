@@ -26,7 +26,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himarygr&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!-- Skills -->
-## :fire: My Skills :
+## :woman_technologist: My Skills :
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=amazon%20aws&logoColor=white">
