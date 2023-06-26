@@ -10,7 +10,7 @@
         Welcome to my GitHub repository! I am a data scientist with 2 years of experience working as a leading analyst at Gazprombank. Currently, I am pursuing a Master's degree in Data Science from HSE, specializing in neural networks. Here, you'll find my studies and pet projects related to data science.
     </p>
     <p align="center">
-        Добро пожаловать в мой репозиторий на GitHub! Я специалист по анализу данных с 2-летним опытом работы ведущим аналитиком в Газпромбанке. В настоящее время я получаю степень магистра в области науки о данных в ВШЭ, специализируясь на нейронных сетях. Здесь вы найдете мои исследования и проекты, связанные с наукой о данных.
+        Добро пожаловать в мой репозиторий на GitHub! Я специалист по анализу данных с более чем 2-летним опытом работы. В настоящее время я получаю степень магистра в области науки о данных в ВШЭ, специализируясь на нейронных сетях. Здесь вы найдете мои исследования и проекты, связанные с наукой о данных.
     </p>
     
 </blockquote>
