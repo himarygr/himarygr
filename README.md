@@ -48,11 +48,6 @@
 </p>
 
 
-<!-- Projects -->
-## Projects
-- [Яндекс Практикум](https://github.com/himarygr/YandexPracticum): Description of project 1.
-- [Хакатон Sandstorm](link_to_project_2): Description of project 2.
-
 <!-- Education -->
 ## Education
 - Master of Data Science, HSE University (2023 - 2025)
