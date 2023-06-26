@@ -22,6 +22,9 @@
     </a>
 </p>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himarygr&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!-- Table of Contents -->
 ## Table of Contents
 - [About Me](#about-me)
