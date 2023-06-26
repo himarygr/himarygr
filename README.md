@@ -3,7 +3,7 @@
 
 <!-- Project Description -->
 <p align="center">
-    <img src="path_to_your_profile_picture" alt="Maria Lagosha" width="200" height="200">
+    <img src="https://media.licdn.com/dms/image/C5603AQG7nxooJZickQ/profile-displayphoto-shrink_800_800/0/1624980739105?e=2147483647&v=beta&t=4fSYC3VaWTde68x6aXcDO5j5nv_xLgU0l09OuOVeI8A" alt="Maria Lagosha" width="200" height="200">
 </p>
 <p align="center">
     Welcome to my GitHub repository! I am a data scientist with 2 years of experience working as a leading analyst at Gazprombank. Currently, I am pursuing a Master's degree in Data Science from HSE, specializing in neural networks. Here, you'll find my studies and pet projects related to data science.
@@ -35,13 +35,13 @@ I am passionate about data science and neural networks. As a data scientist, I e
 
 <!-- Projects -->
 ## Projects
-- [Project 1](link_to_project_1): Description of project 1.
-- [Project 2](link_to_project_2): Description of project 2.
+- [Яндекс Практикум](link_to_project_1): Description of project 1.
+- [Хакатон Sandstorm](link_to_project_2): Description of project 2.
 
 <!-- Education -->
 ## Education
-- Master of Data Science, HSE University (Year - Year)
-- Bachelor of Science in [Field], [University] (Year - Year)
+- Master of Data Science, HSE University (2023 - 2025)
+- Bachelor of Science in Chemical Technology, MIREA (2018 - 2022)
 
 <!-- Skills -->
 ## Skills
