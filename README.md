@@ -50,16 +50,17 @@ I am passionate about data science and neural networks. As a data scientist, I e
 <!-- Skills -->
 ## Skills
 <p align="center">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=amazon%20aws&logoColor=white">
-    <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=flat-square&logo=apache%20kafka&logoColor=white">
-    <img alt="Apache Superset" src="https://img.shields.io/badge/Apache%20Superset-%23F52A33.svg?style=flat-square&logo=apache%20superset&logoColor=white">
-    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white">
-    <img alt="Node-RED" src="https://img.shields.io/badge/Node--RED-%230C1117.svg?style=flat-square&logo=node-red&logoColor=white">
-    <img alt="Apache NiFi" src="https://img.shields.io/badge/Apache%20NiFi-%23DD4814.svg?style=flat-square&logo=apache%20nifi&logoColor=white">
-    <img alt="SAS Enterprise Guide" src="https://img.shields.io/badge/SAS%20Enterprise%20Guide-%230070C0.svg?style=flat-square&logo=sas&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=social&logo=python&logoColor=white" height="40" />
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300758F.svg?style=social&logo=amazon%20aws&logoColor=white" height="40" />
+    <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=social&logo=apache%20kafka&logoColor=white" height="40" />
+    <img alt="Apache Superset" src="https://img.shields.io/badge/Apache%20Superset-%23F52A33.svg?style=social&logo=apache%20superset&logoColor=white" height="40" />
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=social&logo=grafana&logoColor=white" height="40" />
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=social&logo=tensorflow&logoColor=white" height="40" />
+    <img alt="Node-RED" src="https://img.shields.io/badge/Node--RED-%230C1117.svg?style=social&logo=node-red&logoColor=white" height="40" />
+    <img alt="Apache NiFi" src="https://img.shields.io/badge/Apache%20NiFi-%23DD4814.svg?style=social&logo=apache%20nifi&logoColor=white" height="40" />
+    <img alt="SAS Enterprise Guide" src="https://img.shields.io/badge/SAS%20Enterprise%20Guide-%230070C0.svg?style=social&logo=sas&logoColor=white" height="40" />
 </p>
+
 
 <!-- Contact -->
 <p align="center">
