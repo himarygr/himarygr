@@ -31,7 +31,7 @@
 ## :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himarygr&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himarygr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himarygr&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Skills -->
 ## :woman_technologist: My Skills :
