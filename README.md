@@ -10,7 +10,7 @@
         Welcome to my GitHub repository! I am an analyst with more than 2 years experience, aspiring Data Scientist. I also know data engineering, I can build ETL pipelines in Node-Red, Logstash, build BI visualizations in Grafana, Superset, Power BI and launch marketing campaigns in SAS EG. Currently, I am pursuing a Master's degree in Data Science from HSE, specializing in neural networks. Here, you'll find my studies and pet projects related to data science.
     </p>
     <p align="center">
-        Добро пожаловать в мой репозиторий на GitHub! Я специалист по анализу данных с более чем 2-х летним опытом работы. Постоянно прохожу обучение и совершенствуюсь в своих навыках.
+Добро пожаловать в мой репозиторий на GitHub! Я специалист по анализу данных с более чем 2-х летним опытом работы. Постоянно прохожу обучение и совершенствуюсь в своих навыках.
 
 Также, разбираюсь в дата инженерии, умею выстраивать **ETL-пайплайны в Node-Red, Logstash**, работаю с брокером сообщений - **Kafka**. Строю **BI-визуализации в Grafana, Superset, Power BI**, работала в **campaign**, где запускала маркетинговые кампании в **SAS EG**. В настоящее время я получаю степень магистра в области науки о данных в ВШЭ,  специализируясь на **NLP**.
 
