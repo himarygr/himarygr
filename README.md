@@ -7,7 +7,7 @@
 </p>
 <blockquote>
     <p align="center">
-        Welcome to my GitHub repository! I am an analyst with more than 2 years experience, aspiring Data Scientist. I also know data engineering, I can build ETL pipelines in Node-Red, Logstash, build BI visualizations in Grafana, Superset, Power BI and launch marketing campaigns in SAS EG. Currently, I am pursuing a Master's degree in Data Science from HSE, specializing in neural networks. Here, you'll find my studies and pet projects related to data science.
+        Welcome to my GitHub repository! I am an analyst with more than 2 years experience, aspiring Data Scientist. I also know data engineering, I can build ETL pipelines in Node-Red, Logstash, build BI visualizations in Grafana, Superset, Power BI and launch marketing campaigns in SAS EG. Currently, I am pursuing a Master's degree in Data Science from HSE, specializing in neural networks. Here, you'll find my studies and pet projects related to Data Science.
     </p>
     
 </blockquote>
