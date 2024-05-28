@@ -3,7 +3,7 @@
 
 <!-- Project Description -->
 <p align="center">
-    <img src="https://media.licdn.com/dms/image/C5603AQG7nxooJZickQ/profile-displayphoto-shrink_800_800/0/1624980739105?e=2147483647&v=beta&t=4fSYC3VaWTde68x6aXcDO5j5nv_xLgU0l09OuOVeI8A" alt="Maria Lagosha" width="200" height="200">
+    <img src="https://sun3-21.userapi.com/s/v1/ig2/slSblj2_tVTs8RdaCohxlgUgPqAEKxGRzqMA9UWV4GoaF_-i1agbo1jZh-esICJ0TqzMmlk_0KsB2_mkNhbymG8k.jpg?size=200x200&quality=95&crop=245,345,1396,1396&ava=1" alt="Maria Lagosha" width="200" height="200">
 </p>
 <blockquote>
     <p align="center">
