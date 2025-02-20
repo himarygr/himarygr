@@ -64,5 +64,5 @@
 
 <!-- Footer -->
 <p align="center">
-    &copy; 2023-2024 Maria Lagosha. All rights reserved.
+    &copy; 2023-2025 Maria Lagosha. All rights reserved.
 </p>
